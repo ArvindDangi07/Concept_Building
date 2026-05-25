@@ -21,6 +21,6 @@ public class Remove_Adjacent_Duplicates {
         for(char c : stack){
             sb.append(c);
         }
-        System.out.println(sb.toString());
+        System.out.println(sb.toString()) ;
     }
 }
